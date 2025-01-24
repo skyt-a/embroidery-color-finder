@@ -1,7 +1,6 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { rgbToHex } from "@/utils/colorUtils";
-import { SelectedColor } from "@/types/thread";
 
 export async function GET(request: Request) {
   try {
@@ -36,6 +35,7 @@ export async function GET(request: Request) {
       ORDER BY manufacturer;
     `;
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const formattedColors = (result as any[]).map((color) => ({
       manufacturer: color.manufacturer,
       colors: [
