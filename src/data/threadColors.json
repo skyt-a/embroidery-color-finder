@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dmc-1",
+    "manufacturer": "DMC",
+    "colorNumber": "310",
+    "name": "Black",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "hex": "#000000"
+  },
+  {
+    "id": "dmc-2",
+    "manufacturer": "DMC",
+    "colorNumber": "blanc",
+    "name": "White",
+    "rgb": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "dmc-3",
+    "manufacturer": "DMC",
+    "colorNumber": "666",
+    "name": "Bright Red",
+    "rgb": {
+      "r": 227,
+      "g": 29,
+      "b": 66
+    },
+    "hex": "#E31D42"
+  },
+  {
+    "id": "cosmo-1",
+    "manufacturer": "Cosmo",
+    "colorNumber": "100",
+    "name": "Black",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "hex": "#000000"
+  },
+  {
+    "id": "cosmo-2",
+    "manufacturer": "Cosmo",
+    "colorNumber": "101",
+    "name": "White",
+    "rgb": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "cosmo-3",
+    "manufacturer": "Cosmo",
+    "colorNumber": "200",
+    "name": "Red",
+    "rgb": {
+      "r": 230,
+      "g": 25,
+      "b": 56
+    },
+    "hex": "#E61938"
+  }
+]
