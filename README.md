@@ -22,7 +22,7 @@
 
 1. リポジトリのクローン:
 ```bash
-git clone https://github.com/yourusername/embroidery-color-finder.git
+git clone https://github.com/skyt-a/embroidery-color-finder.git
 cd embroidery-color-finder
 ```
 
@@ -53,3 +53,7 @@ npm run dev
 ## ライセンス
 
 MIT
+
+## 作者
+
+skyt-a
